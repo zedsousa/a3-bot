@@ -1,0 +1,6 @@
+
+#Número do monitor
+monitor: 1
+
+#Intervalo em segundos da verificação da tela
+countdown: 60
